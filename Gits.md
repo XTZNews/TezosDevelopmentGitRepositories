@@ -1,9 +1,9 @@
 Tezos Repo List (only *.git links)
 Active Gits (had dev activity within 12 months):
-https://gitlab.com/tezos/tezos.git
-https://gitlab.com/tezos/michelson-reference.git
-https://gitlab.com/tezos/flextesa.git
-https://github.com/Cryptonomic/ConseilJS.git
+https://gitlab.com/tezos/tezos.git  
+https://gitlab.com/tezos/michelson-reference.git  
+https://gitlab.com/tezos/flextesa.git  
+https://github.com/Cryptonomic/ConseilJS.git  
 https://github.com/Cryptonomic/Conseil.git
 https://github.com/Cryptonomic/Smart-Contracts.git
 https://github.com/Cryptonomic/ConseilJS-softsigner.git
@@ -871,19 +871,8 @@ https://github.com/MathisGD/tezos-nft.git
 https://github.com/dpfens/bcdpy.git
 https://github.com/sebuhbitcoin/AddPeers-Tezos-Node.git
 https://github.com/LTebogo/Tezos-Hackathon-.git
-
-
-
 Finished 100 pages on Github 'Recently Updated', now need to go back from 'least recently updated' to gain all 1783 Githubs.
-
-
-
-
----
-
-
 Non-active Gits (no dev activity in over 12 months):
-
 https://gitlab.com/tezos/tezos-faucet.git
 https://github.com/Cryptonomic/Nautilus.git
 https://github.com/Cryptonomic/Nautilus-Cloud.git
