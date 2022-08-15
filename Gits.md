@@ -143,7 +143,7 @@ https://github.com/TezosAfrica/Website.git
 https://github.com/madfish-solutions/yupana-protocol-core.git  
 https://github.com/HomerChel/tezos_stats.git  
 https://github.com/teia-community/teia-ui.git  
-https://github.com/yash0501/tezos-tutorial.git. 
+https://github.com/yash0501/tezos-tutorial.git  
 https://github.com/tezosweb/tezos-ecosystem-projects.git  
 https://github.com/dipdup-net/dipdup-py.git  
 https://github.com/blockwatch-cc/tzgo.git  
@@ -188,7 +188,7 @@ https://github.com/Zondax/ledger-tezos.git
 https://github.com/vivienbcr/tezos-baking-testnet.git  
 https://github.com/NewFronTierWorks/art.world.git  
 https://github.com/oxheadalpha/tezos-pulumi.git  
-https://github.com/TezosFarmation/NFT.git. 
+https://github.com/TezosFarmation/NFT.git  
 https://github.com/madfish-solutions/quipuswap-stable-core.git  
 https://github.com/daniellukonis/tezos-tavern.git  
 https://github.com/BadCodedByAFrench/BotTezosSalesToSocialNetwork.git  
@@ -202,7 +202,7 @@ https://github.com/PortalToBlockchainOrganization/CryptoCount.git
 https://github.com/ecadlabs/ansible-role-tezos-baker.git  
 https://github.com/ecadlabs/ansible-role-tezos-node.git  
 https://github.com/marigold-dev/docker.git  
-https://github.com/Bhawna1203/Tezos-Learning-by-Building.git. 
+https://github.com/Bhawna1203/Tezos-Learning-by-Building.git  
 https://github.com/mcclux/tezos-vue-starter.git  
 https://github.com/rarible/tezos-network-marketplaces-setup.git  
 https://github.com/atomex-protocol/atomex-sdk.git  
@@ -1075,7 +1075,7 @@ https://github.com/TezosRio/TezzeT.git
 https://github.com/TezosRio/TezosJDemoDapp.git  
 https://github.com/hicetnunc2000/ungrund.git  
 https://github.com/anchorageoss/tezosprotocol.git  
-https://github.com/bonedaddy/Tezos-Developer-Resources.git. 
+https://github.com/bonedaddy/Tezos-Developer-Resources.git  
 https://github.com/octo-technology/Tezos-Land-FA2-NFT-Boilerplate.git  
 https://github.com/tezosland/tezosland.github.io.git  
 https://github.com/Tezsure/OrO.git  
@@ -1176,7 +1176,7 @@ https://github.com/RomarQ/Tezize.git
 https://github.com/EjaraApp/multi-wallet-backup-contract.git  
 https://github.com/fafk/wallet.git  
 https://github.com/ScalaConsultants/Tezos-FullStack-Console-backend.git  
-github.com/CruzMolina/tezos-smartpy-example.git  
+https://github.com/CruzMolina/tezos-smartpy-example.git  
 https://github.com/truffle-box/tezos-tzip-12-box.git  
 https://github.com/madhavaggar/Tezos-P2P-Lending.git  
 https://github.com/shubham-kukreja/TezosRentingDapp.git  
@@ -1851,6 +1851,7 @@ https://gitlab.com/tqgroup/tezos4j/tezos4j-build-dockers.git
 https://gitlab.com/tuliptools/tezosdocker.git  
 https://gitlab.com/tezos-domains/conseiljs-helper-prototype.git  
 https://gitlab.com/tqgroup/mi-cho-coq.git  
+End
 
 
 
