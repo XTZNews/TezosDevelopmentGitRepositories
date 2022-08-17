@@ -1853,12 +1853,12 @@ https://gitlab.com/tezos-domains/conseiljs-helper-prototype.git
 https://gitlab.com/tqgroup/mi-cho-coq.git  
 End
 Any Additional:
-https://github.com/fxhash
-https://github.com/fxhash/fxhash-webpack-boilerplate
-https://github.com/fxhash/fxhash-simple-boilerplate
-https://github.com/fxhash/fxhash-api
-https://github.com/fxhash/system-descriptions
-https://github.com/fxhash/chromium-extract
+https://github.com/fxhash. 
+https://github.com/fxhash/fxhash-webpack-boilerplate. 
+https://github.com/fxhash/fxhash-simple-boilerplate. 
+https://github.com/fxhash/fxhash-api. 
+https://github.com/fxhash/system-descriptions. 
+https://github.com/fxhash/chromium-extract. 
 
 
 
