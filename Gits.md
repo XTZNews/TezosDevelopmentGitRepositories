@@ -1859,6 +1859,16 @@ https://github.com/fxhash/fxhash-simple-boilerplate<br>
 https://github.com/fxhash/fxhash-api<br>
 https://github.com/fxhash/system-descriptions<br>
 https://github.com/fxhash/chromium-extract<br> 
+https://github.com/teia-community/community-vote.git<br>
+https://github.com/teia-community/teia-smart-contracts.git<br>
+https://github.com/teia-community/teia-blog.git<br>
+https://github.com/teia-community/teia-report.git<br>
+https://github.com/teia-community/teia-status.git<br>
+https://github.com/teia-community/teia-ui-3.git<br>
+https://github.com/teia-community/ipfs-upload-proxy.git<br>
+https://github.com/teia-community/teia-ui-2.git<br>
+https://github.com/teia-community/teia-ui-3.git<br>
+https://github.com/teia-community/teia-ui-1.git<br>
 
 
 
